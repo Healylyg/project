@@ -1,2 +1,2 @@
-- The box office data of the movies from 2017-2022 are extracted from [the website ](https://www.boxofficemojo.com/)
+- The box office data of the movies from 2017-2022 are extracted from [Box Office Mojo](https://www.boxofficemojo.com/)
 - The python code used to scrape the data is from https://gist.github.com/codingforentrepreneurs/44e53db884fe9bfaf92ce09fae743923
